@@ -1,0 +1,15 @@
+/Users/gauravmalik/Desktop/AirplaneCourierService/bin/Debug/net8.0/AirplaneCourierService
+/Users/gauravmalik/Desktop/AirplaneCourierService/bin/Debug/net8.0/AirplaneCourierService.deps.json
+/Users/gauravmalik/Desktop/AirplaneCourierService/bin/Debug/net8.0/AirplaneCourierService.runtimeconfig.json
+/Users/gauravmalik/Desktop/AirplaneCourierService/bin/Debug/net8.0/AirplaneCourierService.dll
+/Users/gauravmalik/Desktop/AirplaneCourierService/bin/Debug/net8.0/AirplaneCourierService.pdb
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.AssemblyInfoInputs.cache
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.AssemblyInfo.cs
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.csproj.CoreCompileInputs.cache
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.sourcelink.json
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.dll
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/refint/AirplaneCourierService.dll
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.pdb
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/AirplaneCourierService.genruntimeconfig.cache
+/Users/gauravmalik/Desktop/AirplaneCourierService/obj/Debug/net8.0/ref/AirplaneCourierService.dll
